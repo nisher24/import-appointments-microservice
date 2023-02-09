@@ -42,4 +42,5 @@ Microservice for partner's project - CS361: Software Engineering I at OSU
 ```
 
 - UML sequence diagram
+
 ![Sequence diagram](https://github.com/nisher24/import-appointments-microservice/blob/main/sequence_diagram.png)
