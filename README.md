@@ -5,7 +5,9 @@ Microservice for partner's project - CS361: Software Engineering I at OSU
 
 ### Endpoints
 
-#### GET /appointments
+#### Communication Contract
+
+##### GET /appointments
 
 - REQUEST data:
     - Send a HTTP GET request to the microservice to request data from it.
